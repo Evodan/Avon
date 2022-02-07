@@ -28,8 +28,8 @@ def Comprhend(self):
         print('Processed: {0}'.format(str(thought_idx) + ' ' + thought))
         thought_idx = thought_idx + 1
 
-        if self.Frag_Anylzed[thought_idx] == 'NotScanned':
-            KeywordCheck(thought, thought_idx)
+       # if self.Frag_Anylzed[thought_idx] == 'NotScanned':
+      #      KeywordCheck(thought, thought_idx)
 
         """ Send the message somewhere to start chain """
 
