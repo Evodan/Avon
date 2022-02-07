@@ -23,7 +23,7 @@ for script in Scripts:
         Contents[S_Index] = line.replace(Targets[index], botname)
         S_Index += 1
     print(Contents)
-    New = open('Script Transform/NewScript.txt', 'a')
+    New = open('Script Transform/NewScript.csv', 'a')
     New.writelines(Contents)
     New.close()
     index +=1

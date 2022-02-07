@@ -3,3 +3,4 @@ import keyboard
 
 Core_Active = True
 
+Name = "Nessa"

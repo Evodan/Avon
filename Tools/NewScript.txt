@@ -1,0 +1,290 @@
+ Nessa: "The enemy has captured Captain Keyes, and are holding him aboard one of their cruisers, the Truth and Reconciliation. The ship is currently holding position approximately three hundred meters above the other end of this plateau."
+ ODST: "So how do we get inside the ship if it's in the air? The Corps issued me a rifle, not wings."
+ Nessa: "Once we get inside the ship, I should be able to lock on to the tracking signal from Captain Keyes' neural implants."
+ ODST: "Everybody out!"
+ Sergeant Parker: "Hit it Marines, go go go! The Corps ain't payin' us by the hour!"
+ Nessa: "Stick to the higher ground on the right. We should be able to recon the Covenant position without being spotted. I'm detecting Covenant Stationary Guns near the next pass. I recommend using your Sniper Rifle to take out the gunners while I call for Marine support. (over radio) Get ready to move in to support us, Sergeant. The Master Chief is going to covertly take out as many of the Covenant as he can. Don't open fire until you hear the enemy return fire on us. That should let us keep the element of surprise."
+ Sergeant Parker: "Let 'em have it!"
+ Nessa: "Alert! A Covenant is making a run for that stationary gun. (Drops NAV point on Grunt) Take him out!"
+ ODST: "Hey, we did it! We're right behind you, Chief!"
+ Nessa: "Stop. Motion tracker shows movement around the next bend."
+ Sergeant Parker: "We're ready to advance as soon as you call for us, Nessa."
+ Nessa: "Covenant forces detected up ahead. The path up on the left should let us sneak up around them."
+ Sergeant Parker: "We'll hang back while you get into position, Chief."
+ Nessa: "Nessa to Fire Team Charlie. The Chief has the left flank covered. Recommend you move up the middle."
+ Nessa: "Nessa to Fire Team Charlie. The Chief has secured the middle. Get ready to move up the left, you should be able to flank the enemy."
+ ODST: "Roger that."
+ Nessa: "Alert! Covenant Dropships are inbound!"
+ Nessa: "We're directly under the ship now."
+ ODST: "Alright! Are we bad or what?"
+ ODST 2: "Mother of God...I'd never thought I'd get close to one of these things. How the hell are we suppose to get inside that monster?"
+ ODST 2: "If we're gonna board that thing, we need a plan."
+ Nessa: "The Covenant use a Gravity Lift to ferry troops and supplies between the ship and the surface. We need to ambush them at the Grav Lift's loading zone, and use the lift to enter the ship."
+ ODST: "Oh, is that all! Thats's us, the few, the proud, the expendable."
+ Nessa: "Nessa to Echo 419, requesting reinforcements from our position."
+ Foe Hammer (COM): "Roger, Nessa, Echo 419 on approach."
+
+ Covenant troops soon drop from the cruiser's Gravity Lift, engaging the team.
+
+    ODST: "Contact, enemy in sight!"
+
+or
+
+    Sergeant Parker: "Covenant forces sighted! Let's hit 'em, Charlie Team!"
+
+    ODST: "Crap, those stationary guns are gonna tear us to pieces!"
+
+or
+
+    ODST: "Sir, those freakin' guns have us pinned down!"
+
+As another Spirit approaches:
+
+    Nessa: "Alert! Covenant Dropships are inbound!"
+
+    ODST: "Man, there's always something..."
+
+After the team kills everything, including a pair of Hunters:
+
+    Sergeant Parker: "We've secured the area. Let's square away the grav lift. Marines! Prepare for boarding action."
+
+or
+
+    Sergeant Parker: "This area's clear. No hostiles present. Marines, secure the grav lift and prepare for boarding!"
+
+    ODST: "Yes, sir!"
+
+ODSTs gather under the grav lift
+
+If any of the Marines are KIA:
+
+    Nessa (COM): "Nessa to Echo 419. We've reached the Gravity Lift and are ready for reinforcements."
+
+    Foe Hammer (COM): "Copy that, Nessa. Hang tight, gentlemen. Foe Hammer out."
+
+    Nessa: "Once we're inside the ship, I can home in on the Captain's command-neural interface. He'll probably be in or near the ship's brig, which should narrow our search."
+
+    Foe Hammer (COM): "Echo 419 inbound, clear the drop zone."
+
+    Staff Sergeant Johnson: "Go, go, go!"
+
+or
+
+    Staff Sergeant Stacker: "Everybody out!"
+
+Marines exiting the Pelican greet the Chief before taking position around the lift.
+Into the Belly of the Beast
+
+{Cutscene}
+
+    Marine 1: "Whoa!"
+
+The Marine begins to float into the air.
+
+    Marine 2: "Yee-haw!"
+
+Chief begins to float upwards.
+
+Once the team gets inside:
+
+{Gameplay}
+
+    Nessa: "We're in. I've got a good lock on the Captain's CNI transponder. No Covenant defenses detected."
+
+    Marine 1: "What, there's no Covenant here? Maybe nobody's home..."
+
+The bay doors open and Covenant troops begin to attack the squad.
+
+    Marine 2: "Contacts! Lots of contacts!"
+
+    Marine 3: (sarcastically) "No Covenant! Ya had to open your mouth!"
+
+The Chief and the Marines fight off multiple waves of Covenant reinforcements attacking from all sides. After the last wave has been defeated, a pair of massive blast doors open to reveal a Hunter pair.
+
+Once the Hunters are killed:
+
+    Marine 2: "Area secure, Sir. We'd better keep moving. How about that door?"
+
+The team exits the cargo bay through the open doors the Hunters came through. They head down the corridor but are stopped by a second set of blast doors:
+
+    Marine 2: "The door's locked, sir. I can't bypass it. We can't get through here."
+
+or
+
+    Marine 3: "The door's locked, sir. No way through."
+
+    Nessa (COM): "We can use the side passages to find a way around."
+
+    Sergeant Parker: "We'd be sitting ducks in that narrow space. We can hold this position if you can find your way around and open the door from the other side, Chief."
+
+    Nessa: "Chief, let's see if we can find a way to open this door."
+
+As the Chief goes alone and makes his way to a balcony overlooking another cargo bay:
+
+    Nessa: "Wait. That's the locked door down there. The Marines are waiting on the other side. The controls to open it must be somewhere in this room."
+
+The Chief makes it to the ground level and opens the door, letting the rest of the team inside.
+
+After the cargo bay has been secured:
+
+    Marine 3: "All clear, sir!"
+
+    Nessa: "We should get moving."
+
+    Marine 1: "Alright, everybody stay cool. Yell if you see anything."
+
+The team soon enters a large docking bay just in time to witness a Covenant dropship taking off.
+
+If three or more Marines are dead:
+
+    Nessa: "Nessa to Echo 419, requesting reinforcements at our position."
+
+    Foe Hammer (COM): "Foe Hammer here, Nessa... I read you, but you're inside the Covenant ship. I'm not sure I can — "
+
+    Nessa (COM): "Lock onto my signal and approach fast and low. There's a shuttle bay on the ship's starboard side."
+
+    Foe Hammer (COM): "Roger, Nessa - Echo 419 on approach."
+
+The Chief and the rest of the team go around the docking bay battling multiple waves of Covenant.
+
+When the team reaches the door on the other side:
+
+    Marine 3: "Hey, which way should we go now? All the doors on this level are locked!"
+
+    Nessa (COM): "Wait a moment. I'm going to access the Covenant Battlenet and locate an override code to open a door."
+
+    Marine 2: "You'd better hurry Nessa, we can't hold them off all day."
+
+    Nessa (COM): "Working on it." (To the Master Chief) "I'd like to see you crack a 128,000-bit modulating encryption key."
+
+Once you kill the pair of Hunters:
+
+    Nessa: "Got it. The door is open. Everyone should move through now. I can't guarantee that it won't lock again when it closes."
+
+The Chief leads the team up to the second level.
+
+If every Marine in the team is dead, as the Chief approaches the second level of the docking bay:
+
+    Nessa: "I'm going to call for reinforcements. There's no sense going in with anything less than full strength."
+
+    Nessa (COM): "Nessa to Foe Hammer. We need additional support troops. We're going to open the shuttle bay door again. Move in and drop off reserve troops on my signal."
+
+    Foe Hammer (COM): "I copy, Nessa. Echo 419 standing by for your signal."
+
+As the Chief disengages the energy shield over the bay doors:
+
+    Nessa (COM): "Nessa to Echo 419. The shuttle bay door is open. You can start your approach."
+
+    Foe Hammer (COM): "Roger. Echo 419 inbound."
+
+The Chief leads the Marines up to the third level.
+
+Once the team reaches the ship's bridge and kills all the Covenant forces inside including the Zealot Shipmaster:
+
+    Nessa: "This looks like the ship's command center. The Captain's transponder signal is strong, he must be close."
+
+    Marine 1: "This is a good spot, Chief. We'll mind the store here while you go find the Captain. Good luck, sir."
+
+or
+
+    Sergeant Parker: "This looks like a good spot. We'll mind the store here while you go after the Captain. Good luck."
+
+The Chief heads off to rescue the Captain.
+
+When the Chief come across an empty brig:
+
+    Nessa : "We must be in the brig. These look like holding cells. There are probably multiple detention stations. The Captain must be in one of them. We need to keep looking for him."
+
+When the Chief comes across an occupied detention center:
+
+    Marine POW 1: "It's the Chief!"
+
+    Marine POW 2: "Chief! Chief! Let me out, man!"
+
+    Captain Keyes: "Watch out Chief, the Covenant guards are using some sort of stealth armor."
+
+When the Chief kills all the Covenant guards including two Stealth Elites and another Zealot:
+
+    Captain Keyes: "Good work, Chief."
+
+    Marine Corporal (POW): "That was amazing, sir, you really kicked the shi—"
+
+    Captain Keyes: "Stow it, Corporal! Chief, open these cells, and let's get the hell out of here. The power control's along the back wall."
+
+The Chief opens all the cells.
+
+{Cutscene}
+
+The Chief helps Keyes to his feet
+
+    Captain Keyes: "Coming here was reckless. You two know better than this....thanks."
+
+Keyes and the Chief leave the cell. Keyes addresses the freed Marines.
+
+    Captain Keyes: "Marines! Lock and load your weapons, let's be ready to move."
+
+    Marine 1: "Okay, Sir."
+
+    Marine 2: "Yes, Sir."
+
+The three freed Marines, each armed with a Plasma Rifle, assemble in front of the Captain.
+
+    Captain Keyes: "While the Covenant had us locked up in here, I overheard the guards talking about this ring world. They call it... "Halo"."
+
+    Nessa (COM): "One moment, sir. Accessing the Covenant Battlenet. (Pause) According to the data in their networks, the ring has some kind of deep religious significance. If I'm analyzing this correctly, they believe that Halo is some kind of weapon. One with vast, unimaginable power."
+
+    Captain Keyes: "And it's true... The Covenant kept saying that whoever controls Halo controls the fate of the universe."
+
+    Nessa (COM): "Now I see... I have intercepted a number of messages about a Covenant search team, scouting for a "control room". I thought they were looking for the bridge of a cruiser that I damaged during the battle above the ring. But they must be looking for Halo's control room."
+
+    Captain Keyes: "That's bad news. If Halo is a weapon, and the Covenant gain control of it, they'll use it against us and wipe out the entire human race." (Pause) "Chief, Nessa. I have a new mission for you. We need to beat the Covenant to Halo's control room. Marines! Let's move!"
+
+    Marine 1: "Yes, Sir."
+
+    Marine 2: "Okay, Sir."
+
+The Captain picks up a fallen Needler.
+
+    Captain Keyes: "Chief, you have the point."
+
+Shut Up and Get Behind me... Sir
+
+{Gameplay}
+
+    Nessa: "We should head back to the shuttle bay and call for evac."
+
+A pair of Stealth Elites armed with Plasma Rifles charge into the brig and the fighting resumes.
+
+If Captain Keyes dies at some point:
+
+    Nessa: "No! Without the Captain... (sad and slow) the Covenant have already won..."
+
+or
+
+    Nessa: "No! We lost the Captain..."
+
+The game then reverts to the last checkpoint.
+
+After fighting their way back to the bridge, the Chief and the others discover that Sergeant Parker and his squad have been killed by two Stealth Elites with Energy Swords.
+
+After the Stealth Elites have been killed:
+
+    Nessa: "We made it!
+
+    Nessa (COM): Nessa to Echo 419 - We have the Captain and need extraction on the double."
+
+    Foe Hammer (COM): "Negative, Nessa. I've been engaged by Covenant air patrols, and I'm havin' a tough time shakin' 'em. You'll be better off findin' your own ride... sorry."
+
+    Nessa (COM): "Acknowledged, Foe Hammer. Nessa out.
+Nessa: Air support is cut off, Captain. We need to hold here until she can move in."
+Marine POW 1: "Aw, man! We're trapped in here! We're screwed! We're screwed, man!"
+Marine POW 2: "Oh great! Now we're trapped here. We're screwed!"
+Captain Keyes "Stow the bellyaching, soldier. Remember you're a leatherneck. Nessa, if you and the Chief can get us into one of those Covenant dropships I can fly us outta here."
+Nessa (COM): "Yes, Captain. There's a Covenant dropship still docked."
+Nessa: "That's it. The dropship is loose."
+Captain Keyes: "Everybody, mount up. Let's get onboard."
+Nessa (COM): "Give me a minute to interface with the ship's controls."
+Captain Keyes: "No, no need. I'll take this bird out myself."
+Nessa (COM): Captain! Hunters!"
+Captain Keyes: "Hang on!"
+Captain Keyes: "Time for a little payback."

@@ -1,7 +1,3 @@
-
-import os
-os.chdir("/content/drive/My Drive/Colab Notebooks")
-
 # all the imports
 
 import glob
@@ -35,9 +31,32 @@ from transformers import (
     get_linear_schedule_with_warmup,
 )
 
-
 try:
     from torch.utils.tensorboard import SummaryWriter
 except ImportError:
     from tensorboardX import SummaryWriter
 
+data = pd.read_csv('NewScript.txt', sep=':')
+data.columns = {'line', 'name'}
+
+CHARACTER_NAME = 'Nessa'
+
+
+contexted = []
+
+# context window of size 7
+n = 7
+
+for i in data[data.name == CHARACTER_NAME].index:
+  if i < n:
+    continue
+  row = []
+  prev = i - 1 - n # we additionally substract 1, so row will contain current responce and 7 previous responces
+  for j in range(i, prev, -1):
+    row.append(data.line[j])
+  contexted.append(row)
+
+columns = ['response', 'context']
+columns = columns + ['context/' + str(i) for i in range(n - 1)]
+
+df = pd.DataFrame.from_records(contexted, columns=columns)
