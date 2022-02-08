@@ -1,5 +1,9 @@
 # all the imports
 
+
+
+
+
 import glob
 import logging
 import os
@@ -42,7 +46,7 @@ data.columns = {'name', 'line'}
 
 CHARACTER_NAME = 'Nessa'
 
-print(sum(data.name == 'Nessa'))
+print(data.name == 'Nessa')
 
 contexted = []
 
@@ -206,7 +210,7 @@ class Args():
         self.save_steps = 3500
         self.save_total_limit = None
         self.eval_all_checkpoints = False
-        self.no_cuda = False
+        self.no_cuda = True
         self.overwrite_output_dir = True
         self.overwrite_cache = True
         self.should_continue = False
